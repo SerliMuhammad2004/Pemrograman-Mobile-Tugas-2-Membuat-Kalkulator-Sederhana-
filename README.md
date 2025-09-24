@@ -26,6 +26,7 @@ Function yang terdapat dalam program ini antara lain:
 2. `int kurang(int x, int y) => x - y;`
 3. `int kali(int x, int y) => x * y;`
 4. `int bagi(int x, int y)`
+
 Dimana fungsi-fungsi diatas dipanggil saat memilih operator yang akan digunakan untuk mencari hasil dari x dan y.
 
 Hasil perhitungan ditampilkan dalam format:
